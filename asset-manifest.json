@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/inkom-landing/static/css/main.eae9b362.css",
-    "main.js": "/inkom-landing/static/js/main.68fedfc9.js",
+    "main.css": "/inkom-landing/static/css/main.ae75132c.css",
+    "main.js": "/inkom-landing/static/js/main.097707da.js",
     "static/media/background.png": "/inkom-landing/static/media/background.eec6aaa5735990b5c9b1.png",
     "static/media/background_2.png": "/inkom-landing/static/media/background_2.4818c318e2b3752eae12.png",
     "static/media/Roboto-Regular.woff": "/inkom-landing/static/media/Roboto-Regular.6abb86dee3b7a5f61a13.woff",
@@ -16,11 +16,11 @@
     "static/media/MuseoSansCyrl-900.woff2": "/inkom-landing/static/media/MuseoSansCyrl-900.ab7e52c0e5f6f6ce9ef7.woff2",
     "static/media/MuseoSansCyrl-100.woff2": "/inkom-landing/static/media/MuseoSansCyrl-100.53d8783ecf3baa91e1ff.woff2",
     "index.html": "/inkom-landing/index.html",
-    "main.eae9b362.css.map": "/inkom-landing/static/css/main.eae9b362.css.map",
-    "main.68fedfc9.js.map": "/inkom-landing/static/js/main.68fedfc9.js.map"
+    "main.ae75132c.css.map": "/inkom-landing/static/css/main.ae75132c.css.map",
+    "main.097707da.js.map": "/inkom-landing/static/js/main.097707da.js.map"
   },
   "entrypoints": [
-    "static/css/main.eae9b362.css",
-    "static/js/main.68fedfc9.js"
+    "static/css/main.ae75132c.css",
+    "static/js/main.097707da.js"
   ]
 }
